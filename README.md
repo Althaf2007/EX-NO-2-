@@ -178,3 +178,7 @@ int main()
 Output:
 
 <img width="1745" height="820" alt="Screenshot 2026-01-29 224527" src="https://github.com/user-attachments/assets/bab877f7-6303-4f6c-8f78-2a9ec0b57782" />
+
+## Result:
+
+Thus the Python program to implement the Playfair Substitution technique was  completed and successfully executed.
